@@ -4,8 +4,11 @@ import os
 D51_DJANGO_PACKAGES = [
     'd51.django.apps.blogs',
     'd51.django.apps.invites',
+    'd51.django.apps.logger',
     'd51.django.apps.schedules',
+    'd51.django.apps.sharing',
     'd51.django.apps.tagging',
+    'd51.django.apps.twitter',
     'd51.django.auth',
     'd51.django.db.models.generic',
     'd51.django.virtualenv.test_runner',
