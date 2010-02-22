@@ -42,4 +42,4 @@ def sdist():
     setup('sdist')
 
 def clean():
-    local('rm -rf build/ d51/ MANIFEST')
+    local('rm -rf build/ d51/ src/ dist/  MANIFEST')
