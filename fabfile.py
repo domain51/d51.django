@@ -5,6 +5,7 @@ D51_DJANGO_PACKAGES = [
     'd51.django.apps.blogs',
     'd51.django.apps.invites',
     'd51.django.apps.logger',
+    'd51.django.apps.regions',
     'd51.django.apps.schedules',
     'd51.django.apps.sharing',
     'd51.django.apps.tagging',
